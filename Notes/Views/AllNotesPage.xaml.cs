@@ -25,7 +25,8 @@ public partial class AllNotesPage : ContentPage
             //获取笔记模型
             var note = (Models.Note)e.CurrentSelection[0];
             //应该导航到“NotePage?ItemId=path\on\device\XYZ.notes.txt”
-            await Shell.Current.GoToAsync($"{nameof(NotePage)}?{nameof(NotePage.ItemId)}={note.Filename}");
+            var address = $"{nameof(NotePage)}?{nameof(NotePage.ItemId)}={note.Filename}";
+            await Shell.Current.GoToAsync(address);
             //取消选择UI
             notesCollection.SelectedItem = null;
         }

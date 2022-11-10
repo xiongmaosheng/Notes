@@ -7,7 +7,7 @@
         <Editor x:Name="TextEditor"
                Placeholder="键入你的笔记"
                Text="{Binding Text}"
-               HeightRequest="100"/>
+               HeightRequest="300"/>
         <Grid ColumnDefinitions="*,*" ColumnSpacing="4">
             <Button Text="保存" Clicked="SaveButton_Clicked"/>
             <Button Grid.Column="1" Text="删除" Clicked="DeleteButton_Clicked"/>

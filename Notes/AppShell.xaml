@@ -10,11 +10,11 @@
     <TabBar>
         <ShellContent Title="笔记"
                       ContentTemplate="{DataTemplate views:AllNotesPage}"
-                      Icon="icon_notes" />
+                      Icon="icon_notes.png" />
 
         <ShellContent Title="关于"
                       ContentTemplate="{DataTemplate views:AboutPage}"
-                      Icon="icon_about" />
+                      Icon="icon_about.png" />
     </TabBar>
 
 </Shell>

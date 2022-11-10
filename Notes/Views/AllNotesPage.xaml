@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Notes.Views.AllNotesPage"
-             Title="你的笔记">
+             Title="笔记App">
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="添加" Clicked="Add_Clicked" IconImageSource="{FontImage Glyph='+',Color=White,Size=22}"/>
     </ContentPage.ToolbarItems>
