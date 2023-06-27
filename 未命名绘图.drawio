@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T01:30:44.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="wDI3XLqaT4XFIZgzPE96" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T01:31:31.565Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="H23mLwwcfUqA7l5IxNGI" version="21.5.0" type="github">
   <diagram name="高级消息队列模型AMQP" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="1235" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
